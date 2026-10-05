@@ -1,0 +1,739 @@
+[
+  {
+    "vendor_id": "V001",
+    "vendor_name": "ABC Supplies",
+    "enabled_flag": "Y",
+    "email_address": "abc.supplies@example.com"
+  },
+  {
+    "vendor_id": "V002",
+    "vendor_name": "Global Steel",
+    "enabled_flag": "N",
+    "email_address": "global.steel@example.com"
+  },
+  {
+    "vendor_id": "V003",
+    "vendor_name": "Metro Hardware",
+    "enabled_flag": "Y",
+    "email_address": "metro.hardware@example.com"
+  },
+  {
+    "vendor_id": "V004",
+    "vendor_name": "Prime Electricals",
+    "enabled_flag": "Y",
+    "email_address": "prime.electricals@example.com"
+  },
+  {
+    "vendor_id": "V005",
+    "vendor_name": "Sunrise Traders",
+    "enabled_flag": "N",
+    "email_address": "sunrise.traders@example.com"
+  },
+  {
+    "vendor_id": "V006",
+    "vendor_name": "Eastern Hardware",
+    "enabled_flag": "Y",
+    "email_address": "eastern.hardware@example.com"
+  },
+  {
+    "vendor_id": "V007",
+    "vendor_name": "United Building Materials",
+    "enabled_flag": "Y",
+    "email_address": "united.building@example.com"
+  },
+  {
+    "vendor_id": "V008",
+    "vendor_name": "Pacific Tools",
+    "enabled_flag": "N",
+    "email_address": "pacific.tools@example.com"
+  },
+  {
+    "vendor_id": "V009",
+    "vendor_name": "National Cement",
+    "enabled_flag": "Y",
+    "email_address": "national.cement@example.com"
+  },
+  {
+    "vendor_id": "V010",
+    "vendor_name": "Evergreen Suppliers",
+    "enabled_flag": "Y",
+    "email_address": "evergreen.suppliers@example.com"
+  },
+  {
+    "vendor_id": "V011",
+    "vendor_name": "Reliable Metals",
+    "enabled_flag": "N",
+    "email_address": "reliable.metals@example.com"
+  },
+  {
+    "vendor_id": "V012",
+    "vendor_name": "City Hardware",
+    "enabled_flag": "Y",
+    "email_address": "city.hardware@example.com"
+  },
+  {
+    "vendor_id": "V013",
+    "vendor_name": "Premier Glass",
+    "enabled_flag": "Y",
+    "email_address": "premier.glass@example.com"
+  },
+  {
+    "vendor_id": "V014",
+    "vendor_name": "Blue Star Electrical",
+    "enabled_flag": "N",
+    "email_address": "blue.star@example.com"
+  },
+  {
+    "vendor_id": "V015",
+    "vendor_name": "Modern Plumbing",
+    "enabled_flag": "Y",
+    "email_address": "modern.plumbing@example.com"
+  },
+  {
+    "vendor_id": "V016",
+    "vendor_name": "Vertex Industries",
+    "enabled_flag": "Y",
+    "email_address": "vertex.industries@example.com"
+  },
+  {
+    "vendor_id": "V017",
+    "vendor_name": "Royal Timber",
+    "enabled_flag": "N",
+    "email_address": "royal.timber@example.com"
+  },
+  {
+    "vendor_id": "V018",
+    "vendor_name": "Diamond Ceramics",
+    "enabled_flag": "Y",
+    "email_address": "diamond.ceramics@example.com"
+  },
+  {
+    "vendor_id": "V019",
+    "vendor_name": "Express Logistics",
+    "enabled_flag": "Y",
+    "email_address": "express.logistics@example.com"
+  },
+  {
+    "vendor_id": "V020",
+    "vendor_name": "Greenfield Materials",
+    "enabled_flag": "N",
+    "email_address": "greenfield.materials@example.com"
+  },
+  {
+    "vendor_id": "V021",
+    "vendor_name": "Atlas Hardware",
+    "enabled_flag": "Y",
+    "email_address": "atlas.hardware@example.com"
+  },
+  {
+    "vendor_id": "V022",
+    "vendor_name": "Bright Electrical",
+    "enabled_flag": "Y",
+    "email_address": "bright.electrical@example.com"
+  },
+  {
+    "vendor_id": "V023",
+    "vendor_name": "Central Steel Works",
+    "enabled_flag": "N",
+    "email_address": "central.steel@example.com"
+  },
+  {
+    "vendor_id": "V024",
+    "vendor_name": "Prime Paints",
+    "enabled_flag": "Y",
+    "email_address": "prime.paints@example.com"
+  },
+  {
+    "vendor_id": "V025",
+    "vendor_name": "Horizon Supplies",
+    "enabled_flag": "Y",
+    "email_address": "horizon.supplies@example.com"
+  },
+  {
+    "vendor_id": "V026",
+    "vendor_name": "Silverline Metals",
+    "enabled_flag": "N",
+    "email_address": "silverline.metals@example.com"
+  },
+  {
+    "vendor_id": "V027",
+    "vendor_name": "Crown Hardware",
+    "enabled_flag": "Y",
+    "email_address": "crown.hardware@example.com"
+  },
+  {
+    "vendor_id": "V028",
+    "vendor_name": "Alpine Traders",
+    "enabled_flag": "Y",
+    "email_address": "alpine.traders@example.com"
+  },
+  {
+    "vendor_id": "V029",
+    "vendor_name": "Harbor Engineering",
+    "enabled_flag": "N",
+    "email_address": "harbor.engineering@example.com"
+  },
+  {
+    "vendor_id": "V030",
+    "vendor_name": "Oakwood Materials",
+    "enabled_flag": "Y",
+    "email_address": "oakwood.materials@example.com"
+  },
+  {
+    "vendor_id": "V031",
+    "vendor_name": "Summit Tools",
+    "enabled_flag": "Y",
+    "email_address": "summit.tools@example.com"
+  },
+  {
+    "vendor_id": "V032",
+    "vendor_name": "Golden Construction",
+    "enabled_flag": "N",
+    "email_address": "golden.construction@example.com"
+  },
+  {
+    "vendor_id": "V033",
+    "vendor_name": "Western Electrical",
+    "enabled_flag": "Y",
+    "email_address": "western.electrical@example.com"
+  },
+  {
+    "vendor_id": "V034",
+    "vendor_name": "Lakeside Suppliers",
+    "enabled_flag": "Y",
+    "email_address": "lakeside.suppliers@example.com"
+  },
+  {
+    "vendor_id": "V035",
+    "vendor_name": "Northstar Hardware",
+    "enabled_flag": "N",
+    "email_address": "northstar.hardware@example.com"
+  },
+  {
+    "vendor_id": "V036",
+    "vendor_name": "Urban Builders",
+    "enabled_flag": "Y",
+    "email_address": "urban.builders@example.com"
+  },
+  {
+    "vendor_id": "V037",
+    "vendor_name": "Precision Metals",
+    "enabled_flag": "Y",
+    "email_address": "precision.metals@example.com"
+  },
+  {
+    "vendor_id": "V038",
+    "vendor_name": "Coastal Plumbing",
+    "enabled_flag": "N",
+    "email_address": "coastal.plumbing@example.com"
+  },
+  {
+    "vendor_id": "V039",
+    "vendor_name": "Maple Industries",
+    "enabled_flag": "Y",
+    "email_address": "maple.industries@example.com"
+  },
+  {
+    "vendor_id": "V040",
+    "vendor_name": "Ironworks International",
+    "enabled_flag": "Y",
+    "email_address": "ironworks@example.com"
+  },
+  {
+    "vendor_id": "V041",
+    "vendor_name": "Clearview Glass",
+    "enabled_flag": "N",
+    "email_address": "clearview.glass@example.com"
+  },
+  {
+    "vendor_id": "V042",
+    "vendor_name": "Pioneer Supplies",
+    "enabled_flag": "Y",
+    "email_address": "pioneer.supplies@example.com"
+  },
+  {
+    "vendor_id": "V043",
+    "vendor_name": "Everest Hardware",
+    "enabled_flag": "Y",
+    "email_address": "everest.hardware@example.com"
+  },
+  {
+    "vendor_id": "V044",
+    "vendor_name": "Continental Metals",
+    "enabled_flag": "N",
+    "email_address": "continental.metals@example.com"
+  },
+  {
+    "vendor_id": "V045",
+    "vendor_name": "Riverside Traders",
+    "enabled_flag": "Y",
+    "email_address": "riverside.traders@example.com"
+  },
+  {
+    "vendor_id": "V046",
+    "vendor_name": "Sterling Electrical",
+    "enabled_flag": "Y",
+    "email_address": "sterling.electrical@example.com"
+  },
+  {
+    "vendor_id": "V047",
+    "vendor_name": "Oakridge Construction",
+    "enabled_flag": "N",
+    "email_address": "oakridge.construction@example.com"
+  },
+  {
+    "vendor_id": "V048",
+    "vendor_name": "Mountain Supplies",
+    "enabled_flag": "Y",
+    "email_address": "mountain.supplies@example.com"
+  },
+  {
+    "vendor_id": "V049",
+    "vendor_name": "Pacific Building Co",
+    "enabled_flag": "Y",
+    "email_address": "pacific.building@example.com"
+  },
+  {
+    "vendor_id": "V050",
+    "vendor_name": "Gulf Industrial",
+    "enabled_flag": "N",
+    "email_address": "gulf.industrial@example.com"
+  },
+  {
+    "vendor_id": "V051",
+    "vendor_name": "Metro Steel",
+    "enabled_flag": "Y",
+    "email_address": "metro.steel@example.com"
+  },
+  {
+    "vendor_id": "V052",
+    "vendor_name": "Delta Hardware",
+    "enabled_flag": "Y",
+    "email_address": "delta.hardware@example.com"
+  },
+  {
+    "vendor_id": "V053",
+    "vendor_name": "Sunset Electrical",
+    "enabled_flag": "N",
+    "email_address": "sunset.electrical@example.com"
+  },
+  {
+    "vendor_id": "V054",
+    "vendor_name": "Aspen Materials",
+    "enabled_flag": "Y",
+    "email_address": "aspen.materials@example.com"
+  },
+  {
+    "vendor_id": "V055",
+    "vendor_name": "Redwood Suppliers",
+    "enabled_flag": "Y",
+    "email_address": "redwood.suppliers@example.com"
+  },
+  {
+    "vendor_id": "V056",
+    "vendor_name": "Eastside Tools",
+    "enabled_flag": "N",
+    "email_address": "eastside.tools@example.com"
+  },
+  {
+    "vendor_id": "V057",
+    "vendor_name": "Westgate Hardware",
+    "enabled_flag": "Y",
+    "email_address": "westgate.hardware@example.com"
+  },
+  {
+    "vendor_id": "V058",
+    "vendor_name": "Highland Metals",
+    "enabled_flag": "Y",
+    "email_address": "highland.metals@example.com"
+  },
+  {
+    "vendor_id": "V059",
+    "vendor_name": "Bridgeway Supplies",
+    "enabled_flag": "N",
+    "email_address": "bridgeway.supplies@example.com"
+  },
+  {
+    "vendor_id": "V060",
+    "vendor_name": "Capital Hardware",
+    "enabled_flag": "Y",
+    "email_address": "capital.hardware@example.com"
+  },
+  {
+    "vendor_id": "V061",
+    "vendor_name": "Granite Industries",
+    "enabled_flag": "Y",
+    "email_address": "granite.industries@example.com"
+  },
+  {
+    "vendor_id": "V062",
+    "vendor_name": "Cedar Building Materials",
+    "enabled_flag": "N",
+    "email_address": "cedar.materials@example.com"
+  },
+  {
+    "vendor_id": "V063",
+    "vendor_name": "Liberty Traders",
+    "enabled_flag": "Y",
+    "email_address": "liberty.traders@example.com"
+  },
+  {
+    "vendor_id": "V064",
+    "vendor_name": "Northfield Electrical",
+    "enabled_flag": "Y",
+    "email_address": "northfield.electrical@example.com"
+  },
+  {
+    "vendor_id": "V065",
+    "vendor_name": "Fairview Hardware",
+    "enabled_flag": "N",
+    "email_address": "fairview.hardware@example.com"
+  },
+  {
+    "vendor_id": "V066",
+    "vendor_name": "Iron Mountain Supplies",
+    "enabled_flag": "Y",
+    "email_address": "iron.mountain@example.com"
+  },
+  {
+    "vendor_id": "V067",
+    "vendor_name": "Crescent Metals",
+    "enabled_flag": "Y",
+    "email_address": "crescent.metals@example.com"
+  },
+  {
+    "vendor_id": "V068",
+    "vendor_name": "Garden City Traders",
+    "enabled_flag": "N",
+    "email_address": "garden.city@example.com"
+  },
+  {
+    "vendor_id": "V069",
+    "vendor_name": "Beacon Construction",
+    "enabled_flag": "Y",
+    "email_address": "beacon.construction@example.com"
+  },
+  {
+    "vendor_id": "V070",
+    "vendor_name": "Atlas Electrical",
+    "enabled_flag": "Y",
+    "email_address": "atlas.electrical@example.com"
+  },
+  {
+    "vendor_id": "V071",
+    "vendor_name": "Royal Hardware",
+    "enabled_flag": "N",
+    "email_address": "royal.hardware@example.com"
+  },
+  {
+    "vendor_id": "V072",
+    "vendor_name": "Green Valley Supplies",
+    "enabled_flag": "Y",
+    "email_address": "green.valley@example.com"
+  },
+  {
+    "vendor_id": "V073",
+    "vendor_name": "Blue Ridge Metals",
+    "enabled_flag": "Y",
+    "email_address": "blue.ridge@example.com"
+  },
+  {
+    "vendor_id": "V074",
+    "vendor_name": "Citywide Plumbing",
+    "enabled_flag": "N",
+    "email_address": "citywide.plumbing@example.com"
+  },
+  {
+    "vendor_id": "V075",
+    "vendor_name": "Frontier Hardware",
+    "enabled_flag": "Y",
+    "email_address": "frontier.hardware@example.com"
+  },
+  {
+    "vendor_id": "V076",
+    "vendor_name": "Summit Electrical",
+    "enabled_flag": "Y",
+    "email_address": "summit.electrical@example.com"
+  },
+  {
+    "vendor_id": "V077",
+    "vendor_name": "Harbor Steel",
+    "enabled_flag": "N",
+    "email_address": "harbor.steel@example.com"
+  },
+  {
+    "vendor_id": "V078",
+    "vendor_name": "Silver Oak Traders",
+    "enabled_flag": "Y",
+    "email_address": "silver.oak@example.com"
+  },
+  {
+    "vendor_id": "V079",
+    "vendor_name": "Pioneer Electrical",
+    "enabled_flag": "Y",
+    "email_address": "pioneer.electrical@example.com"
+  },
+  {
+    "vendor_id": "V080",
+    "vendor_name": "Crown Construction",
+    "enabled_flag": "N",
+    "email_address": "crown.construction@example.com"
+  },
+  {
+    "vendor_id": "V081",
+    "vendor_name": "Golden Gate Hardware",
+    "enabled_flag": "Y",
+    "email_address": "golden.gate@example.com"
+  },
+  {
+    "vendor_id": "V082",
+    "vendor_name": "Evergreen Metals",
+    "enabled_flag": "Y",
+    "email_address": "evergreen.metals@example.com"
+  },
+  {
+    "vendor_id": "V083",
+    "vendor_name": "Lighthouse Supplies",
+    "enabled_flag": "N",
+    "email_address": "lighthouse.supplies@example.com"
+  },
+  {
+    "vendor_id": "V084",
+    "vendor_name": "Oak Valley Hardware",
+    "enabled_flag": "Y",
+    "email_address": "oak.valley@example.com"
+  },
+  {
+    "vendor_id": "V085",
+    "vendor_name": "Meridian Industries",
+    "enabled_flag": "Y",
+    "email_address": "meridian.industries@example.com"
+  },
+  {
+    "vendor_id": "V086",
+    "vendor_name": "Cobalt Electrical",
+    "enabled_flag": "N",
+    "email_address": "cobalt.electrical@example.com"
+  },
+  {
+    "vendor_id": "V087",
+    "vendor_name": "Redstone Materials",
+    "enabled_flag": "Y",
+    "email_address": "redstone.materials@example.com"
+  },
+  {
+    "vendor_id": "V088",
+    "vendor_name": "Lakeshore Traders",
+    "enabled_flag": "Y",
+    "email_address": "lakeshore.traders@example.com"
+  },
+  {
+    "vendor_id": "V089",
+    "vendor_name": "Northstar Metals",
+    "enabled_flag": "N",
+    "email_address": "northstar.metals@example.com"
+  },
+  {
+    "vendor_id": "V090",
+    "vendor_name": "Urban Electrical",
+    "enabled_flag": "Y",
+    "email_address": "urban.electrical@example.com"
+  },
+  {
+    "vendor_id": "V091",
+    "vendor_name": "Westfield Supplies",
+    "enabled_flag": "Y",
+    "email_address": "westfield.supplies@example.com"
+  },
+  {
+    "vendor_id": "V092",
+    "vendor_name": "Granite Hardware",
+    "enabled_flag": "N",
+    "email_address": "granite.hardware@example.com"
+  },
+  {
+    "vendor_id": "V093",
+    "vendor_name": "Brighton Metals",
+    "enabled_flag": "Y",
+    "email_address": "brighton.metals@example.com"
+  },
+  {
+    "vendor_id": "V094",
+    "vendor_name": "Cedar Electrical",
+    "enabled_flag": "Y",
+    "email_address": "cedar.electrical@example.com"
+  },
+  {
+    "vendor_id": "V095",
+    "vendor_name": "Parkside Hardware",
+    "enabled_flag": "N",
+    "email_address": "parkside.hardware@example.com"
+  },
+  {
+    "vendor_id": "V096",
+    "vendor_name": "Riverside Metals",
+    "enabled_flag": "Y",
+    "email_address": "riverside.metals@example.com"
+  },
+  {
+    "vendor_id": "V097",
+    "vendor_name": "Highland Electrical",
+    "enabled_flag": "Y",
+    "email_address": "highland.electrical@example.com"
+  },
+  {
+    "vendor_id": "V098",
+    "vendor_name": "Maple Hardware",
+    "enabled_flag": "N",
+    "email_address": "maple.hardware@example.com"
+  },
+  {
+    "vendor_id": "V099",
+    "vendor_name": "Coastal Materials",
+    "enabled_flag": "Y",
+    "email_address": "coastal.materials@example.com"
+  },
+  {
+    "vendor_id": "V100",
+    "vendor_name": "Vertex Electrical",
+    "enabled_flag": "Y",
+    "email_address": "vertex.electrical@example.com"
+  },
+  {
+    "vendor_id": "V101",
+    "vendor_name": "Pacific Hardware",
+    "enabled_flag": "N",
+    "email_address": "pacific.hardware@example.com"
+  },
+  {
+    "vendor_id": "V102",
+    "vendor_name": "Summit Materials",
+    "enabled_flag": "Y",
+    "email_address": "summit.materials@example.com"
+  },
+  {
+    "vendor_id": "V103",
+    "vendor_name": "Oakridge Metals",
+    "enabled_flag": "Y",
+    "email_address": "oakridge.metals@example.com"
+  },
+  {
+    "vendor_id": "V104",
+    "vendor_name": "Bluewater Supplies",
+    "enabled_flag": "N",
+    "email_address": "bluewater.supplies@example.com"
+  },
+  {
+    "vendor_id": "V105",
+    "vendor_name": "Central Hardware",
+    "enabled_flag": "Y",
+    "email_address": "central.hardware@example.com"
+  },
+  {
+    "vendor_id": "V106",
+    "vendor_name": "Pioneer Metals",
+    "enabled_flag": "Y",
+    "email_address": "pioneer.metals@example.com"
+  },
+  {
+    "vendor_id": "V107",
+    "vendor_name": "North Coast Electrical",
+    "enabled_flag": "N",
+    "email_address": "northcoast.electrical@example.com"
+  },
+  {
+    "vendor_id": "V108",
+    "vendor_name": "Everest Materials",
+    "enabled_flag": "Y",
+    "email_address": "everest.materials@example.com"
+  },
+  {
+    "vendor_id": "V109",
+    "vendor_name": "Golden Hardware",
+    "enabled_flag": "Y",
+    "email_address": "golden.hardware@example.com"
+  },
+  {
+    "vendor_id": "V110",
+    "vendor_name": "Harbor Electrical",
+    "enabled_flag": "N",
+    "email_address": "harbor.electrical@example.com"
+  },
+  {
+    "vendor_id": "V111",
+    "vendor_name": "Crescent Supplies",
+    "enabled_flag": "Y",
+    "email_address": "crescent.supplies@example.com"
+  },
+  {
+    "vendor_id": "V112",
+    "vendor_name": "Sterling Metals",
+    "enabled_flag": "Y",
+    "email_address": "sterling.metals@example.com"
+  },
+  {
+    "vendor_id": "V113",
+    "vendor_name": "Western Hardware",
+    "enabled_flag": "N",
+    "email_address": "western.hardware@example.com"
+  },
+  {
+    "vendor_id": "V114",
+    "vendor_name": "Capital Electrical",
+    "enabled_flag": "Y",
+    "email_address": "capital.electrical@example.com"
+  },
+  {
+    "vendor_id": "V115",
+    "vendor_name": "Horizon Metals",
+    "enabled_flag": "Y",
+    "email_address": "horizon.metals@example.com"
+  },
+  {
+    "vendor_id": "V116",
+    "vendor_name": "Fairview Supplies",
+    "enabled_flag": "N",
+    "email_address": "fairview.supplies@example.com"
+  },
+  {
+    "vendor_id": "V117",
+    "vendor_name": "Modern Hardware",
+    "enabled_flag": "Y",
+    "email_address": "modern.hardware@example.com"
+  },
+  {
+    "vendor_id": "V118",
+    "vendor_name": "Lakeside Metals",
+    "enabled_flag": "Y",
+    "email_address": "lakeside.metals@example.com"
+  },
+  {
+    "vendor_id": "V119",
+    "vendor_name": "Royal Electrical",
+    "enabled_flag": "N",
+    "email_address": "royal.electrical@example.com"
+  },
+  {
+    "vendor_name": "Missing ID Vendor",
+    "enabled_flag": "Y",
+    "email_address": "missing.id@example.com"
+  },
+  {
+    "vendor_id": "V121",
+    "vendor_name": "Invalid Status Vendor",
+    "enabled_flag": "X",
+    "email_address": "invalid.status@example.com"
+  },
+  {
+    "vendor_id": "V122",
+    "vendor_name": "No Email Vendor",
+    "enabled_flag": "Y",
+    "email_address": null
+  },
+  {
+    "vendor_id": "V123",
+    "vendor_name": "  Gulf Steel  ",
+    "enabled_flag": "Y",
+    "email_address": "gulf.steel@example.com"
+  }
+]
